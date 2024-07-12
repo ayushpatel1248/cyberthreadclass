@@ -6,9 +6,6 @@ import SearchIcon from '@mui/icons-material/Search';
 import SearchNotFound from '../components/SearchNotFound';
 import HomepageAccountPopover from '../layouts/dashboard/HomepageAccountPopover';
 import Page from '../components/Page';
-// import awsLogo from '../images/AWScloudtitle.jpg';
-// import awsLogoNew from '../images/aws.jpg';
-// import awsLogoWithName from '../images/aws-wname.jpg';
 
 import './App.css';
 import httpService from '../common/httpService';
