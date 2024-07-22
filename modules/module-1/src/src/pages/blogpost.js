@@ -7,7 +7,6 @@ import Iconify from '../components/Iconify';
 import { getUser } from '../sections/auth/AuthService';
 // import awsLogoNew from '../images/aws.jpg';
 import httpService from '../common/httpService';
-// import awsLogoWithName from '../images/aws-wname.jpg';
 
 const getIcon = (name) => <Iconify icon={name} width={22} height={22} />;
 
